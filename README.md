@@ -1,12 +1,12 @@
 # Pavise Fates: Revelation
-A mod of Fire Emblem Fates where the units are replaced with members of the Pavise community discord.
-https://discord.com/invite/pavcord
+A mod of Fire Emblem Fates where the units are replaced with members of the Pavise community discord. https://discord.com/invite/pavcord
 
 How to play on emulator:
 1. Open Citra
 2. Right click Fire Emblem Fates and go to 'Open Mods Location'
 3. Copy romfs folder to above location
 4. Profit
+
 Note: combining this with other mods may cause either to stop working.
 
 How to play on official 3DS:
