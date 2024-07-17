@@ -1,0 +1,1 @@
+asset_pack.rb -u %1
